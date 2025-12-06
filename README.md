@@ -1,11 +1,11 @@
 # InflationForecast_ML_XGBoost_Scenarios
 
-# CPI Forecast under Policy Rate Scenarios
+CPI Forecast under Policy Rate Scenarios
 日本の金融政策と物価の関係を機械学習で予測するプロジェクト
 
 ---
 
-## 📌 プロジェクト概要 (Project Overview)
+プロジェクト概要 (Project Overview)
 本プロジェクトでは、日本銀行の政策金利と総務省統計局のCPIデータを用いて、
 XGBoostモデルによる物価予測を実施しました。
 複数シナリオ（現状維持・引き上げ・引き下げ）を設定し、95%信頼区間を可視化することで、
@@ -13,14 +13,14 @@ XGBoostモデルによる物価予測を実施しました。
 
 ---
 
-## 🎯 目的 (Objective)
+## 目的 (Objective)
 - 金融政策と物価の関係をデータサイエンスで検証
 - シナリオ分析による政策決定支援の可能性を示す
 - 機械学習モデルの構築・評価・可視化スキルをアピール
 
 ---
 
-## 📂 使用データ (Data)
+## 使用データ (Data)
 - **政策金利**：日本銀行統計データ（44年分）
 - **CPI**：総務省統計局データ（月次）
 - **特徴量**：
@@ -30,7 +30,7 @@ XGBoostモデルによる物価予測を実施しました。
 
 ---
 
-## 🛠 技術スタック (Tech Stack)
+## 技術スタック (Tech Stack)
 - **Python**: pandas, numpy, matplotlib, seaborn
 - **モデル**: XGBoost
 - **ハイパーパラメータ最適化**: Optuna
@@ -38,7 +38,7 @@ XGBoostモデルによる物価予測を実施しました。
 
 ---
 
-## 🔍 手法 (Methodology)
+## 手法 (Methodology)
 1. データ取得（日本銀行API + e-Stat）
 2. 前処理（欠損値処理、特徴量生成）
 3. モデル構築（XGBoost）
@@ -48,7 +48,7 @@ XGBoostモデルによる物価予測を実施しました。
 
 ---
 
-## ✅ 結果 (Results)
+## 結果 (Results)
 - **評価指標**: RMSE = **1.69**
 - **シナリオ比較**:
   - 金利引き上げ → CPI緩やかに上昇
@@ -62,10 +62,14 @@ XGBoostモデルによる物価予測を実施しました。
 
 ---
 
-## 💡 実務価値 (Business Value)
+##  実務価値 (Business Value)
 - 金融機関や政策分析で、シナリオベースの予測モデルとして活用可能
 - リスク評価や経済シミュレーションに応用可能
 
 ---
 
-## 📁 ファイル構成 (File Structure)
+##  ファイル構成 (File Structure)
+├── README.md
+├── CPI_Forecast_XGBoost.ipynb   # Notebook本体
+├── data/                        # データセット
+└── images/                      # グラフ画像
