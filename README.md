@@ -57,8 +57,7 @@ XGBoostモデルによる物価予測を実施しました。
   - 複数シナリオの予測線
   - 95%信頼区間を表示
 
-![CPI Forecast Graph](graph_example.png)  
-ートしてください)*
+![CPI Forecast Graph](graph_example.png)
 
 ---
 
@@ -70,6 +69,9 @@ XGBoostモデルによる物価予測を実施しました。
 
 ##  ファイル構成 (File Structure)
 ├── README.md
+
 ├── CPI_Forecast_XGBoost.ipynb   # Notebook本体
+
 ├── data/                        # データセット
+
 └── images/                      # グラフ画像
