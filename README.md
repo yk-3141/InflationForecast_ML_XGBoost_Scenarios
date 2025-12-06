@@ -36,6 +36,9 @@
 
 <img width="1390" height="790" alt="image" src="https://github.com/user-attachments/assets/0b90697e-276d-45dc-b324-4ec854e39204" />
 
+<img width="690" height="452" alt="image" src="https://github.com/user-attachments/assets/2a9a7972-4e8f-4c2b-aee8-a1d2a07e72e6" />
+
+
 
 ## 実務的な価値
 - 金融機関や政策分析で、シナリオベースの予測モデルとして活用可能
