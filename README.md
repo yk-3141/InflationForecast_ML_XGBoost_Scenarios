@@ -34,9 +34,13 @@
 - 金利引き下げ → CPIは横ばい傾向
 - グラフ：複数シナリオの予測線と信頼区間
 
+・全体推移
 <img width="1390" height="790" alt="image" src="https://github.com/user-attachments/assets/0b90697e-276d-45dc-b324-4ec854e39204" />
+・予測値
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/f7659dd6-6562-46e9-919b-ca8ac0603223" />
+・変化率
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/2a9a7972-4e8f-4c2b-aee8-a1d2a07e72e6" />
 
-<img width="690" height="452" alt="image" src="https://github.com/user-attachments/assets/2a9a7972-4e8f-4c2b-aee8-a1d2a07e72e6" />
 
 
 
